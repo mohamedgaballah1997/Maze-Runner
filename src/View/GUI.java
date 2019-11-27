@@ -121,7 +121,6 @@ public class GUI extends JFrame {
 					observerpanel.t.start();
 					observerpanel.setVisible(true);
 					setVisible(true);
-			    //	eng.Save(path);
 				
 			}}
 		});
